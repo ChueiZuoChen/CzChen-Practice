@@ -1,0 +1,2 @@
+rootProject.name = "CzChen-Practice"
+include ':app'
